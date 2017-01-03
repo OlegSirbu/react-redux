@@ -3,4 +3,4 @@ Run _`npm start`_ to run the webpack dev server<br />
 
 Server is running on `localhost:8080` by default
 
-This is page simulate filtering data from server by company name
+On this example, you can filter data by company name.
